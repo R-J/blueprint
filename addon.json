@@ -1,8 +1,8 @@
 {
     "key": "blueprint",
     "type": "addon",
-    "name": "Blueprint Minimum",
-    "description": "Minimum requirements for a valid Vanilla plugin",
+    "name": "Blueprint Structure",
+    "description": "Show how tables can be created and altered.",
     "version": "1.0.0",
     "license": "MIT",
     "authors": [
